@@ -21,7 +21,7 @@ plt.imshow(blur)
 plt.axis("off")
 
 plt.subplot(223)
-plt.title('median blur')
+plt.title('Median blur')
 plt.imshow(median)
 plt.axis("off")
 
